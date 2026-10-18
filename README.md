@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Pasindu Sangeeth 👋
 
-<!--
-**Sangeeth-Weerasingha/sangeeth-weerasingha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Java | Spring Boot | JavaScript
+📍 Sri Lanka
 
-Here are some ideas to get you started:
+#### 🔥 My Projects
+- **Todo App - Dark Pro** - Full Stack Todo with Dark UI [Check Here](https://github.com/Sangeeth-Weerasingha/pasindu-todo-dark-pro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+`Java` `Spring Boot` `JavaScript` `HTML/CSS` `Git` `MySQL`
+
+#### 📫 Connect with me
+- GitHub: @Sangeeth-Weerasingha
+
+---
+⭐ Star my repos if you like them!
