@@ -5,7 +5,7 @@
 
 #### 🔥 My Projects
 
-• Todo App - Dark Pro - Full Stack Todo with Dark UI [Check Here](link eka)
+• Todo App - Dark Pro - Full Stack Todo with Dark UI [Check Here]( https://sangeeth-weerasingha.github.io/pasindu-todo-dark-pro/frontend.html)
 
 • E-Shop - Full Stack E-Commerce - Spring Boot + 6 Products API [Live Demo](https://sangeeth-weerasingha.github.io/pasindu-e-shop/frontend.html)
 
